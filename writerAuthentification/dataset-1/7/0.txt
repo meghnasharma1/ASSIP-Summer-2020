@@ -1,0 +1,59 @@
+﻿Project DIANA                
+
+
+
+
+
+
+
+
+Project DIANA (Detecting Ice along with Natural Assets)
+Advaith Sai Yeluru
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Abstract
+The National Aeronautics and Space Administration (NASA) is planning to go back to the Moon in 2024 (“What is Artemis?”, 2019). The need for this mission is very high right now because of the uncertainty of natural resources on the Moon and whether or not they may support a colony. Many scientific kinds of research should be conducted on the Moon’s surface and underneath to successfully gain information and data on the type of minerals and the amount of them. While this is feasible, some constraints include the weight that can go up to the Moon and the launch facility itself. The specific launch facility for this mission is Wallops Flight Facility (WFF), as it is very close to NASA Headquarters and contains a multitude of services that can be used at this location. The weight and the launch facility constraints make it hard for a mission of this magnitude to be imagined, but it will still be able to occur due to precise and effective mission planning.
+        Keywords: Wallops Flight Facility, Constraints, Colony
+
+
+
+
+________________
+
+
+Project DIANA (Understanding the Moon’s Basic Resource Accessibility)
+     Project DIANA is a mission planned and headed by NASA and Jet Propulsion Laboratory (JPL) for a rover and orbiter pair to scan and test the minerals and their possible uses to decide what type of help they can provide in the future when building a colony in the future. The leading players for this mission are NASA and JPL. NASA plays an essential role in commanding the entire project and about data transfer to and from the rover and orbiter. JPL is critical in designing the rover and orbiter and making it weight/fit in the size dimensions of the package, which fits into the robot. There are many other companies and groups which take part in this mission. This mission is unique as there is nothing like this planned at NASA so far, and a mission of this caliber will generate data that NASA scientists do not have yet. This mission is for the Moon specifically. With a crewed mission going to the Moon in 2024 (“What is Artemis”, 2019), there have to be missions sent to the Moon beforehand to assist the astronauts with their research experiments. This mission is planned for the year 2021. This provides the rover with enough time to gain all necessary information in the ice on the lunar south pole as well as other side quests necessary to get specific information for NASA scientists. This mission is necessary because without any information about the usefulness and amount of minerals in the Moon, then there is no point in sending up a crewed mission.
+Mission Objective
+           For many NASA missions, there is one overarching goal. In Project DIANA, the main goal is for a rover and orbiter to accomplish scientific tasks and scans on the Moon to justify sustainable living on the Moon. The specific goals and roles of the rover and the orbiter pair are to explore the Shackleton Crater region, which is located close to the lunar south pole. The rover will examine the chemical makeup of the ice and its constituents. The orbiter is scanning the Moon for trace metals of various compounds and will find the surface area of the ice along with the depth. The rover and the orbiter will analyze the minerals/organic compounds discovered and relay the data to NASA scientists for them to decide on future crewed missions. 
+Mission Users
+        The mission users of this proposed mission will be NASA, JPL, Northrop Grumman, United Launch Alliance, and the international scientific community. NASA and JPL are the biggest benefactors from this project because all scientific instruments and hardware are coming from these two sources. NASA primarily benefits from the data gathered by the rover to influence its decision to go ahead with the pre-determined plan of placing a settlement on the Moon in the year 2024(“What is Artemis?”, 2019). JPL is a significant partner of this operation because of the items they are providing for this mission. JPL is the central engineering division of this mission because they are the ones who will make sure that the rover and the orbiter, which is used to work along with the rover, fit in the dimensions of the Antares Rocket’s payload dimensions. JPL is also consulted in the development of some scientific instruments to improve efficiency and the overall build quality to ensure no possible mechanical failures. Northrop Grumman is a stakeholder of this mission and also supplies the Antares rocket (Antares Rocket, 2017), which is the launch vehicle for Project DIANA to go to the Moon. Due to the constraint of the mission having to be launched from Wallops Flight Facility (WFF), the Antares rocket is the only rocket that can be launched that can launch a mission to the Moon from WFF. United Launch Alliance is a stakeholder in this because of the optional third stage they manufacture, which will go on top of the Antares rocket. The Centaur V (Bruno, 2017) third stage produced by the United Launch Alliance has the capabilities to carry the rover and the orbiter to the Moon.
+     Operations Concept. The rover and the orbiter work together in harmony to finish the task at hand quickly. The rover and the orbiter use their scientific tools simultaneously to amass the most amount of data to send back to NASA headquarters for NASA scientists to analyze the data and make a call on whether a future lunar settlement is possible. This mission is a space-based planetary exploration mission. The reason this mission is classified as this type is that the rover is on the Moon studying the amounts of useful minerals, and water is located near the poles of the Moon. A sample return mission would not be possible due to the weight restraints and the way to come back to Earth. The amount of fuel and hardware necessary for scientists to build so that the rover and orbiter can come back to Earth would vastly exceed the launch weight capacity of the Antares rocket (Antares Rocket, n.d.). Besides the fact that it would exceed the weight capacity of the rocket, sample return missions have already been done through the Apollo missions. Space-Based Earth Observations have already been done through satellites. These satellites have measured various of topics already, and many more satellites are being designed to scan the Earth for unique items. Deep Space Exploration is not possible from the launch facility of WFF. WFF’s maximum range for a mission is the Moon based on the configuration this mission is using. The time frame for this mission is six months. This six-month time frame is well below the possible lifespan of the rover, but six months is enough time for the rover to do on-ground tests for the contaminants of the ice and for the rover to figure out the depth of the ice. Six months is also enough time for the orbiter to scan the Moon for similar element traces based upon the scientific experiments conducted by the rover. There is a variety of spacecraft and scientific hardware for this mission. The mission constraint does not allow for big rockets, which can take the payload to the Moon, so in this mission, the spacecraft used is an Antares two-stage rocket (Antares Rocket, n.d.) with a Centaur V (Bruno, 2017) upper stage as the third stage of the rocket. The scientific hardware onboard the payload is very impressive. Onboard the rover, we have the ChemCam, which finds the contaminants of ice samples taken by the rover, and it also finds the compositions of various minerals where the rover drilled (“Mars Curiosity Rover”, n.d.). The rover also has a LIDAR obstacle avoidance system to prevent any collisions, which may cause damage to the rover (“What is LIDAR?”, n.d.). The rover is powered by a nuclear radioisotope thermoelectric generator, which generates 2040 watts per hour. This amount of power enables the rover to finish the task at hand and quickly move onto the next job to find all the data necessary for NASA scientists to decide on if a settlement on the Moon is possible. The orbiter has a visible and infrared spectrometer called OVIRS (OSIRIS-REx, 2016). The orbiter also contains an OSIRIS-Rex Thermal Emission Spectrometer called OTES (“INSTRUMENTS”, n.d.). Both of these instruments will help find the mineral concentrations and organic compounds in water composition in mol/L. It also contains an instrument called Radar for Europa Assessment and Sounding: Ocean to Near-Surface (REASON) (“MISSION”, n.d.) along with solar panels. The orbiter contains REASON (“MISSION”, n.d.) to find the depth, surface area, and the volume of ice in cubic meters of where the orbiter scans near the lunar south pole. The orbiter is powered through solar panels and relays the rover’s signal to Earth to allow data transfer from the rover to Earth and vice versa.
+     Mission Constraints. For every mission, no matter what type, there are always some constraints or restrictions. In this mission, the only constraint is that the mission has to launch from WFF. This constraint hampers many possible mission ideas. To overcome this hamper, many unique ideas had to be thought of before narrowing down to this one simple idea. This one simple idea had to be improved over and over again to reach a decision on what instruments to use and what types of rockets to use.
+Conclusion
+        Project DIANA is unique because of its capabilities. The rover and the orbiter pair would provide many scientists with valuable information about the chemical makeup of the ice on the poles of the Moon and about the minerals located on the Moon. This data gathered would then influence the possibility of a permanent settlement on the Moon. The onboard scientific instruments complete a wide array of experiments to gain a full picture of what is located on the Moon and how much there is of that mineral/compound. While this idea may be skeptical, if it were to be put into action by NASA’s scientists and managers, it would succeed in its mission and result in some of the most critical information ever known to humanity. 
+________________
+
+
+
+
+References
+Antares Rocket. (n.d.), Retrieved from https://www.northropgrumman.com/space/antares-rocket/
+Bruno, T. (2017, October 10). Building on a successful record in space to meet the challenges ahead. Retrieved from https://spacenews.com/op-ed-building-on-a-successful-record-in-space-to-meet-the-challenges-ahead/
+INSTRUMENTS. (n.d.), Retrieved from https://www.asteroidmission.org/objectives/instruments/
+Mars Curiosity Rover. (n.d.), Retrieved from https://mars.nasa.gov/msl/spacecraft/instruments/chemcam/
+MISSION. (n.d.), Retrieved from https://europa.nasa.gov/mission/science-instruments/
+OSIRIS-REx Technology: OVIRS. (2016, July 25), Retrieved from https://svs.gsfc.nasa.gov/12309
+What is Artemis?. (2019, July 25). Retrieved from https://www.nasa.gov/what-is-artemis
+What is LIDAR?. (n.d.), Retrieved from https://oceanservice.noaa.gov/facts/lidar.html

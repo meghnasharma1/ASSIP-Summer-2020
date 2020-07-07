@@ -1,0 +1,60 @@
+﻿MISSION AT MARS FOR ICE COMPOSITION EXPERIMENT        
+
+
+
+
+
+
+
+
+
+
+Mission at Mars for Ice Composition Experiment (MAMFICE)
+Advaith Sai Yeluru
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Abstract
+NASA (National Aeronautics and Space Administration) plans to go to the Moon soon. In the following years after the mission to the Moon, Mars is going to be NASA’s target to lay human civilization on. With a new planet come new challenges, and among those, one of the biggest challenges is the usage of natural resources. To figure out up to what extent these natural resources can be used, an experiment is designed and described in this technical report. Furthermore, what information can be gained from doing the proposed experiment will also be disclosed in this technical report.
+     Keywords: Ice Composition Experiment, Mars, ChemCam, RMI, OSIRIS-REx
+________________
+
+
+Mission at Mars for Ice Composition Experiment (MAMFICE)
+     This experiment of MAMFICE is essential to humanity as a whole. There is much information about Mars, which has yet to be discovered, and starting with the poles of Mars, where there is ice, is an excellent place to start experiments regarding the natural resources of Mars. If the experiments on the ice of Mars’ poles return hopeful results, then that would start the idea of expanding humanity onto Mars. The idea to get to Mars would boost competition, and the economy as more and more companies try to build commercial rockets to take humans to Mars. MAMFICE is a series of experiments that would help the scientists on Earth and the astronauts onboard understand if the natural resources on Mars are viable enough for humans to use with little to no processes to purify the water/ice. MAMFICE will occur on the northern pole as there is a higher quantity of water ice there, as opposed to the southern pole where there is a higher quantity of dry ice. This experiment will most likely happen after the Moon settlement has succeeded; the primary goal of NASA is to put humans on the Moon first, which is then followed by expanding humanity to Mars. The reason why this experiment is so necessary is to make sure that the human race survives. Using J. Richard Gott’s 95 percent confidence formula, the estimated date when the human race will end, if the human race does not get away from Earth and expand, is anywhere from 5,100 years to 7.8 million years (Ingraham, 2017). Due to the uncertainty of when this situation may occur, it is better to run this experiment and find the planet whose natural resources are best fit for humanity to expand to.
+Differences in the experiment occurring on Mars and Earth
+     Mars has a lower amount of gravity, which does not allow all experiments which happen on Earth to happen on Mars. Another different thing is the atmosphere composition. According to NASA, there is 78% of Nitrogen, 21% of Oxygen, 0.93% of Argon, and 0.04% of Carbon Dioxide in the Earth’s atmosphere (Sharp, 2017). On the other hand, Mars atmosphere is made out of 95.32% of Carbon Dioxide, 2.7% of Nitrogen, 1.6% of Argon, 0.13% of Oxygen, and 0.08% of Carbon Monoxide (Sharp, 2017). Along with those, there are trace amounts of Water, Nitrogen Oxide, Neon, Hydrogen-Deuterium-Oxygen, Krypton, Xenon (Sharp, 2017). There is a weight limitation of the equipment that can be sent to Mars to conduct this experiment. The ice caps on Earth do not have a dry ice layer over the water ice layer like the southern Mars’ pole has. Due to the southern Mars pole having a layer of dry ice, the northern pole seems like a better place for this experiment to occur to get a higher-quality set of data to help the scientists to decide if human life will be successful on Mars with its natural resources. The idea of doing this experiment on Mars is to check if it is possible to expand the human civilization to move to Mars. There would be no point in doing this experiment on Earth except for the fact to compare the samples from the Arctic and the Martian north pole ice cap.
+Materials
+     While there is much equipment for a group of astronauts to go to Mars, there needs to be some additional equipment to make this includes scientific equipment. The scientific equipment includes ChemCam, OSIRIS-REx (OVIRS), OSIRIS-REx (OTES), and REASON. ChemCam works with a drill and needs a sample of the ice. ChemCam has two instruments built into it, which include LIBS (Laser-Induced Breakdown System) and RMI (Remote Microscopic Imager) (Mars Curiosity Rover, n.d.). Both of these instruments help with ChemCam to look at a trace level of contaminants in ice in mol/L. The RMI will help measure the composition of scanned minerals with respect to the composition of various precious minerals. OSIRIS-REx (OVIRS) and (OTES) both work together to find the mineral concentrations in a sample of the ice gained from a hole made by the drill. OVIRS stands for OSIRIS-REx Visible Infrared Spectrometer (OSIRIS-REx, 2016), and OTES stands for OSIRIS-REx Thermal Emission Spectrometer (INSTRUMENTS, n.d.). OVIRS and OTES both work together also to find the composition of water/ice, and they also measure the concentration of organic compounds in the ice in terms of mol/L. REASON stands for Radar for Europa Assessment and Sounding: Ocean to Near-Surface; REASON calculates the depth, surface area, and the volume of the area scanned, which in this scenario would be the northern polar ice cap (MISSION, n.d.). Batteries are also an essential item for scientific experiments to work. There will also need to be an RTG (Radioisotope Thermoelectric Generators) to generate electricity to recharge the batteries for the equipment.
+Power Requirements
+     There will only need power to be supplied to the equipment when they are being used. This power is supplied through the form of batteries. Due to the tilt and the rotation of Mars, there are seasons just like the ones on Earth, and there will be a time when there will be no sunlight on the place where this experiment will be occurring, so the use of solar panels will be unreasonable. Nuclear power is the way to go to provide energy to recharge all the batteries. Nuclear power will not need any sunlight to run but will need a mechanic to maintain it. To solve the problem of maintenance, one of the astronauts will be tasked to keep the nuclear power generator to be functioning correctly at all times. This nuclear generator would also be providing energy to the habitat in which the astronauts will live in. While it is hard to know the exact number of watts of electricity needed to run the habitat, it can be assumed that the amount of electricity would be well over 5000 watts. When the experiment isn't going on, then the batteries will not be used in the equipment, which will save energy. 
+Time to Maintain Experiment
+     The experiment should be done from between 18-24 months. The experiment will take this timeframe to gather the highest quality of data. Mars has a 25-degree tilt on its axis, whereas Earth has a tilt of 23.5 degrees (Cain, 2008). Due to this 25-degree tilt, Mars experiences seasons just like Earth. During various seasons, ice at the poles on Mars will melt and freeze up. To get a wider variety of data, the astronauts who do this experiment must stay at Mars for over a year to get data that encompasses all situations on the planet of Mars. Since the milestones are at 3 months, 6 months, and 12 months, it should be known that throughout the months, the data gained from taking samples of the ice would most likely be the same at all times since nothing is changing the ice on the planet Mars. At three months, assuming that the astronauts land in winter on Mars, scientists will most likely see a very thick ice sheet on Mars, which could have possible bacteria trapped inside.
+     Further testing will show some various types of minerals from millions of years ago. At 6 months, the same minerals will show up in the ice sample due to the sample being taken from the same ice, but there will be a minimal ice layer due to the season becoming late spring and early summer. After 12 months, the ice layer will be thick again because of the season being winter, but the minerals will be the same ones as in the initial sample. As the astronauts stay longer on Mars, they can dig deeper to get samples of the ice further underneath to find different minerals or better evidence of life, possibly currently living on Mars.
+Experiment during Transit?
+     During the transit to Mars, astronauts can use the REASON scientific equipment to scan the Martian north pole ice cap and gauge an idea of how deep the polar ice caps are on Mars and using 3D modeling they can make estimates about how much ice there is located on the poles. While the transit back to the Earth, the astronauts can do experiments and dissections of the samples they have brought back from the polar ice caps to measure various things from the ice such as if there is any life on it or to find any minerals located in the ice which could lead to evidence to check if there still is life on Mars.
+Conclusion
+     This mission is vital to the future of humanity. While it may seem that this experiment should be first done on the Moon, there have been samples returned to Earth which have already been analyzed. There is still a lot to be learned about Mars, and this mission will accelerate the amount of knowledge gained by scientists on Earth. The amount of data gained by the astronaut's experiments in ice samples will allow scientists to assume to see if a human settlement on Mars will be viable.
+________________
+
+
+References
+Cain, F. (2008, June 6). Mars Tilt. Universe Today. https://www.universetoday.com/14894/mars-tilt/
+Ingraham, C. (2017, October 6). We have a pretty good idea of when humans will go extinct. The Washington Post. https://www.washingtonpost.com/news/wonk/wp/2017/10/06/we-have-a-pretty-good-idea-of-when-humans-will-go-extinct/
+INSTRUMENTS. (n.d.), Retrieved from https://www.asteroidmission.org/objectives/instruments/
+Mars Curiosity Rover. (n.d.), Retrieved from https://mars.nasa.gov/msl/spacecraft/instruments/chemcam/
+MISSION. (n.d.), Retrieved from https://europa.nasa.gov/mission/science-instruments/
+OSIRIS-REx Technology: OVIRS. (2016, July 25), Retrieved from https://svs.gsfc.nasa.gov/12309
+Sharp, T. (2017, September 12). Mars’ Atmosphere: Composition, Climate & Weather. Space.com. https://www.space.com/16903-mars-atmosphere-climate-weather.html
+Sharp, T. (2017, October 13). Earth’s Atmosphere: Composition, Climate & Weather. Space.com. https://www.space.com/17683-earth-atmosphere.html

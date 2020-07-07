@@ -1,0 +1,125 @@
+﻿Martian Infrastructure Location Exploration                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Martian Infrastructure Location Exploration
+Aydin Gokce
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+Building a Mars base is an advantageous investment due to its potential to stimulate the space industry, accelerate scientific research, and to see massive economic returns. Mars is an incredibly dangerous place, however, and it is of course very far from Earth. A critical element for NASA to consider in building a Mars base is its location. The Martian Infrastructure Location Exploration (MILE) project is a robotic Mars exploration mission with the intent to pinpoint an ideal, accessible location with convenient access to water ice and protection from weather and cosmic rays. The mission comprises two exploratory phases—one orbital and one terrestrial. Probes equipped with high-precision Light Detection and Ranging (LIDAR) sensors will map in great detail the terrain of potential Mars Base locations while also returning several months’ worth of Martian weather data. Once analysts have reviewed the data and chosen promising locations, they will send—depending on the number, quality and location of the sites—several rovers to study their composition and exposure to radiation. NASA will then use this data to train astronauts and build equipment for Mars use. This is the first logical step to be taken in building the second-ever civilization of a planetary scale. 
+
+
+
+
+
+
+
+
+Introduction
+        The  Mars Exploration Program (MEP) is one of NASA’s main scientific endeavors—a constantly ongoing program comprising several missions intended to better understand Mars’ composition, history, and potential to host human inhabitants (Mars Exploration Program, n.d.). A Mars settlement would mark a core milestone in the history of the human species. It would establish a strong American presence in the first-ever extraplanetary outpost, serve as a powerhouse for scientific research, and after enough infrastructure is laid down, potentially host long-term human civilization.
+        Establishing infrastructure on Mars is also a tremendous economic investment. Laying down a Mars platform for long-term life support, rocketry support and foundations off which commercial partners and other countries can expand would be beneficial to space travel in all aspects. Stationing refueling bases and skyhooks on Mars would vastly increase the range of missions and would allow scientists, tourists, rockets, and probes alike to traverse the solar system with ease. The United States would amass colossal returns on every rocket slingshot to interstellar space, every asteroid retrieved from the asteroid belt for mining, every tourist ferried to and from Mars, and every Martian scientific discovery. 
+        Mars, however, is an ugly place. It is barren, dry, and devoid of life. The soil contains voluminous amounts of toxic perchlorate (David, Willson & Coates, 2013). The extreme temperatures require ample thermal protection to survive (De Souza, 2019). The frequent dust storms and tornadoes can fling debris around at speeds of up to 30 meters per second, potentially damaging equipment and settlers (Boumis, 2017). To top it off, this violent and toxic desert is also a highly radioactive one. Over a 180-day journey to Mars, an astronaut is exposed to, on average, 300 millisieverts of radiation. Upon touching down on Mars, an explorer would be exposed to 15 times the legal radiation limit for workers at nuclear power plants. A 500-day stay on Mars would expose the average person to a dose of radiation that is 100% lethal (Wall, 2013).
+As a result, the first step of planting life on Mars is to make it survivable, making the most of what little resources it has to offer. Among these is water. An estimated amount of 5 million cubic kilometers of water ice reside at either the surface of Mars, or directly beneath it. The water ice is even more abundant and easier to extract at Mars’ poles, where it piles above the surface for hundreds of kilometers (Arizona State University, n.d.). Mars’ magnetosphere also provides a degree of protection from radiation. Although it is very weak compared to Earth’s, it does bulge at its south pole. This means that, with just a little extra radiation protection, Mars’ south pole is safe from radiation. With water and shelter, Mars is totally livable, provided humans bring with them a power source. This is because water, when electrolysed into its constituent parts—oxygen and hydrogen—produces breathable oxygen gas and drinkable water for plants and humans, as well as rocket fuel. This means that as long as the Mars base is adequately powered, it can be totally self sufficient, self-supplying its own food, water, and transportation.
+
+
+Terrain graph of Mars’ water distribution  
+(Arizona State University, n.d.)
+  
+
+Visual depiction of Mars’ magnetospheric concentration from an equatorial perspective
+(Lakdawalla, 2008)
+A brief comparison between the above graphics shows the convenient coincidence between concentrations of water ice and magnetosphere.
+Operational Concept
+        Multiple steps will be taken to determine an ideal build site for a Mars base, starting from general observations from reconnaissance probes. Areas with higher degrees of relative safety will be mapped out, and investigated further with rovers. Based on factors such as radiation protection, convenience of ice mining, thermal and atmospheric conditions, and terrain suitability, an ideal location will be selected for use in future missions. The process is broken down into two steps: scouting the Martian south pole over multiple passes with probes, then sending rovers to test the locations firsthand to examine the sites in great detail. When the mission is complete, NASA will have found the optimal location to build a Mars base, and will be able to proceed with building one. 
+Phase 1
+        The first phase of the mission will be observation. A reconnaissance probe equipped with xenon thrusters for repositioning will be sent into low polar orbit over Mars. Over a given period of time, with multiple passes and orbital angle adjustments, the probe will return a through, detailed map of the south pole. Upon analysis of the map, teams will locate promising build sites worth further examination. After several months of observations and data collection, the probe will return detailed weather patterns and high-resolution maps of individual areas. Analysts will rule out obviously uninhabitable zones and prepare to further investigate the remaining contenders. 
+Phase 2
+        The mission’s second phase consists of robotic exploration of the terrains. The number of rovers to be sent to Mars depends on budget, the area of terrain to explore, and the distance between them (i.e. a  rover may be able to scope multiple areas if they are close enough to travel between). Onboard seismographs, spectrometers, barometers, thermometers, cameras, and geiger counters will provide rovers with data regarding the exact composition, atmospheric condition and radioactivity of the various terrains. Based on the data collected by the rovers, NASA will select an ideal Mars location. Terrain data will also be used to train astronauts and build Mars equipment in compliance with the Red Planet’s harsh conditions. 
+Constraints
+Constraints
+        The Main constraint with a robotics exploration mission to Mars is, put simply, the cost. Sending rovers to mars is an absurdly expensive task. Sending the Curiosity rover to Mars cost 2.5 billion dollars, Opportunity and Spirit cost 800 million dollars and Mars 2020 is expected to cost 2.4 billion dollars (Folger, 2012; Howell 2019, Howell 2018). Ten rovers, identical to Curiosity, launched separately, would exceed NASA’s annual budget by almost two and a half billion dollars. This is not even considering the cost of the reconnaissance probes which will need to scout the Martian landscape beforehand. The cost can be mitigated by either picking less terrain to map, by sending rovers to map multiple terrains or both. This will, however, significantly extend the duration of the mission. If a rover is going to map two sites, 200 km apart, it would take approximately 60 days to cross that distance assuming that the terrain in between is perfectly level with no required detours and the rover travels at a speed identical to Curiosity[1]. This means that the mission will either be very long, or it will be very expensive.
+In the introduction, it was mentioned that a Mars base could be fully self-sustaining provided it has a consistent source of power. Power generation is, unfortunately, one of the biggest problems facing a Mars civilization. Solar power, a popular power generation method used in space will not work on Mars. Firstly, its orbit is almost 80 million kilometers farther from the Sun than Earth, which means that even in a perfectly clear sky, it will receive only 40% of the sunlight that illuminates Earth and the Moon. That 40% figure is still idealized, as it does not account for Mars’ atmosphere. Mars’ ceaseless dust storms and cloudy atmosphere would block out so much light that using solar power simply isn’t worth it, and that’s not even considering its susceptibility to the danger posed by weather conditions. Wind power cannot work either, as the atmosphere of Mars is much too thin to generate enough power to produce significant amounts of electricity. The best method of power generation for a Mars base would be from radioisotope thermoelectric generators due to their robustness and reliability, though they are dangerous to humans, heavy and extremely expensive.
+Scope Summary
+Need: Means of sustainable Martian civilization and infrastructure.
+Goal: Expand American influence to an extraterrestrial level, conduct scientific research and receive positive economic return on investments.
+Objective: Provide NASA with a means off which to begin construction of a Mars base.
+Mission Case: Identify an ideal location for a Mars base.
+Operational Concept: The MILE project will be executed in two phases. During the first, probes will gather weather and general terrain data of the Martian south pole to find promising potential locations for a Mars base. Second, NASA will deploy rovers to the sites to take pictures, study their composition and record radiation data.
+Assumptions: Rovers are capable of mapping Martian terrain with inches of resolution.
+Constraints: Cost, difficulty of power generation.
+
+
+Conclusion
+The first logical step to building a Martian base is to scout for an ideal location. The South Pole is, in general, a good location due to its strong magnetosphere and water ice deposits. Further and more comprehensive measures, however, must be taken to ensure that NASA is building equipment and training astronauts in accordance with the radiation, atmospheric and terrestrial conditions present in a particular build site. NASA would need a detailed profile of the location to know if they need to account for mountainous surfaces, what types of minerals their drills would need to penetrate, thermal stress their equipment would need to withstand, radiation volume their shields need to resist, etc. As a result, probes and rovers will map in extreme detail the best potential build sites for a Mars base, to find which ones are convenient, accessible and offer the best protection. MILE is a project aimed to do exactly that in a two-phase process. One, orbital reconnaissance, observing areas of relative calmness and ice composition from space. Two, deploying rovers to provide highly detailed maps of the locations to find those which are best suited to host life. By the time MILE is complete, NASA will know exactly what they are dealing with in terms of a Mars base, how to achieve it, and may therefore begin construction. 
+
+
+
+
+
+
+
+
+
+
+
+
+References
+[1]: The 60 year figure is obtained from dividing 200 kilometers by Curiosity’s top speed, then dividing by 24 hours to get the amount of days.
+Arizona State University. (n.d.). Ice. Retrieved February 17, 2020, from 
+https://marsed.asu.edu/mep/ice
+Boumis, R. (2017, April 24). Average Wind Speed on Mars. Retrieved February 17, 2020, from 
+https://sciencing.com/average-wind-speed-mars-3805.html
+Davila, A., Willson, D., Coates, J., & McKay, C. (2013). Perchlorate on Mars: A chemical 
+hazard and a resource for humans. International Journal of Astrobiology, 12(4), 321-325. doi:10.1017/S1473550413000189
+De Souza, P. (2019, November 12). Why is Mars so Cold Despite an Atmosphere of Mostly 
+Carbon Dioxide? Retrieved February 17, 2020, from 
+https://www.space.com/climate-explained-why-mars-is-cold-despite-an-atmosphere-of-mostly-carbon-dioxide.html
+Folger, J. (2012, September 5). Why Curiosity Cost $2.5 Billion. Retrieved February 17, 2020, 
+from 
+https://www.investopedia.com/financial-edge/0912/why-curiosity-cost-2.5-billion.aspx
+Howell, E. (2019, October 23). Mars 2020 Rover Cost Could Starve Other Red Planet Missions. 
+Retrieved February 17, 2020, from https://www.space.com/mars-2020-rover-cost-overruns-impact-other-missions.html
+Howell, E. (2018, September 12). Opportunity- Longest Running Mars Rover. Retrieved 
+February 17, 2020, from https://www.space.com/18289-opportunity-rover.html
+Wall, M. (2013, December 9). Radiation on Mars "Manageable" for Manned Mission, Curiosity 
+Rover Reveals. Retrieved February 17, 2020, from 
+https://www.scientificamerican.com/article/radiation-on-mars-managea/

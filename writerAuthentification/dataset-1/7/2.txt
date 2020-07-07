@@ -1,0 +1,49 @@
+﻿RUNNING HEAD: MARS ROVER: ATHENA                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mars Rover: Athena
+Advaith Sai Yeluru
+Virginia Aerospace Science and Technology Scholars
+________________
+
+
+Abstract
+Mission Athena is a mission for a rover whose main job is to analyze Mars for various unknown minerals and underground structures. Mars is one of the closest planets to Earth, and it is known to have the most Earth-like traits. There is still so much unknown from the various rover expeditions of Spirit, Opportunity, and Curiosity. With a lot unknown about Mars, no space agency can take the risk of landing a human on Mars. To prevent these types of risks, a mission of this caliber is necessary to work along with the Mars 2020 rover to gain the most data for scientists to analyze and make assumptions about life on Mars. Mars Rover: Athena has the capabilities and new technologies that can aid in storing samples in tubes for future recovery by human astronauts. This technical report will thoroughly explain the Concept of Operations of this mission, but it will also describe each significant phase of the mission. 
+Keywords: Rover Athena, Sample Return Mission, Concept of Operations
+________________
+
+
+Mars Rover: Athena
+This mission is a rover-based mission made to work in harmony with the Mars 2020 rover. The primary mission of rover Athena is to gain information about the possible underground structures on Mars. Another primary mission is to discover more about the Mawrth Vallis Valley due to the unknown source of water that used to be there. NASA will head this mission, but the information gained by the rover will be used worldwide. This mission will go to Mars in 2022 and will continue to gain data until the year of 2026 when hopefully the next mission comes to return the samples packed by the rover back to Earth. The reason for this mission is to develop further the understanding of the atmosphere and the build of Mars.
+Science Objectives
+To understand more about Mars, three main questions are necessary to answer. The three questions that need to be answered are: determine if Mars ever had any life on it before it turned into the deserted planet it is today; find if the geology has any signs of minerals or substances which haven't been found on Earth or have been found yet, also to find any underground structures. Also, to do scientific experiments on Mars to check if the climate on Mars has any contaminants in it and to measure the composure of the very minimal atmosphere there is on Mars. These questions all relate to the first three Mars Exploration Program goals. The three goals are, determine if life ever arose on Mars, characterize the climate of Mars, and characterize the geology of Mars. 
+Mission Statement
+This Mars mission is necessary due to the too many unknown variables on Mars. The overall structure and makeup of Mars make it a very viable area for humankind to expand to. Without knowing all the information about Mars, it would be too risky for NASA or any other Space Agency to send astronauts to Mars to set up a civilization. Previous research is not only required, but it would also be useful for a future crewed mission. The users of this mission would be the entire humankind. This is because if Mars is a viable site for humankind, then all of humankind will most likely immigrate to this site. The users for this mission will include mainly NASA because they have sponsored this mission and taken control of it, but besides NASA, the mission will have users as other space agencies who will be able to analyze the various data of the red planet. Another user of this mission Overall, all information gained from the red planet will be released to government organizations such as WHO so that they can learn more about the various types of diseases or chemicals found on the red planet. The overall subject of this mission is to increase the amount of knowledge we have about the red planet.
+Exploration Site on Mars
+The exploration site for this mission would be at the Mawrth Vallis Valley. This valley shows signs of Martian river channels that have been dried up for a long time. Many pictures taken by orbiting spacecraft have taken pictures that have allowed scientists to analyze how lakes may have gotten filled up with water. Even though this valley shows signs of river channels and minerals, scientists cannot understand where this water had come from. They have found a channel that pops out of nowhere and is not connected to anything else. There appears to be a hole through which water seeps through the bottom of the lake. This hints at an underground structure. This possible underground structure is one of the many things a Mars Rover would want to explore and learn more about, leading to a possibility of life.
+  
+ Figure 1.1 This is a close-up picture of the Mawrth Vallis Valley on Mars. This is the location where the rover Athena will travel while doing scientific experiments. (“Eight Potential Landing Sites”, n.d.)
+  Figure 1.2 This is a picture of the possible landing sites for the Mars 2020 rover. The Mars 2020 rover is predicted to land at the Jerezo Crater while the Mars Rover: Athena will land at the Mawrth Vallis Valley. (“Eight Potential Landing Sites”, n.d.)
+Limited Con-Ops
+The major phases of this mission include the design of the rover along with building the rover and the setup of the rover into the fairing of the rocket. Followed by the launch of the rocket and the entry into the Martian atmosphere finishing at the landing of the rover on Martian soil. These are considered the most critical phases because any mistakes in one of these areas will cause a problem for the entire mission. The optimal launch time for this mission will be in the year 2022. The turnaround time from drawings to making a rover in 4-5 months is not enough for time for a rover to be successfully made. This includes doing calculations and making vectors for launch sequences. The return window will most likely be in 2026 after the rover has finished its mission. 
+Constraints
+The constraints of this mission are very simple. The biggest constraint is weight. The rover cannot have every single instrument onboard due to the lift capabilities of the rocket which would take the rover to Mars. 
+Scope Summary Page
+The need for this mission is to learn more about the structures and makeup underneath old lake beds on Mars. The goal of this mission is to find evidence of life on Mars and to find some bacteria which are still alive hopefully. These bacteria would allow us to understand how this new bacterium compares with existent bacteria on Earth. The objective is to work with the Mars 2020 rover to gain the most information about life on Mars. Humanity needs this mission to learn more about the viable options to live on another planet. Without this mission, humanity will not be able to spread its wings and discover and settle down in a new place, therefore squishing the dream of expanding one’s horizons. According to NASA scientists, it has been assumed that there is life on Mars, and with this new mission, this assumption will be able to confirm through thorough testing by the Mars Rover: Athena. 
+________________
+
+
+Citation
+Eight Potential Landing Sites. (n.d.). Retrieved from https://mars.nasa.gov/mars2020/mission/timeline/prelaunch/landing-site-selection/eight-potential-sites/
