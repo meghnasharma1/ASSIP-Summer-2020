@@ -1,0 +1,235 @@
+﻿MAREST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Martian Residential, Transportational and Scientific Infrastructure Mission
+Aydin Gokce
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scope Summary
+Need: Means of sustainable Martian civilization and infrastructure.
+Goals: Create a scientific, industrial and residential platform on Mars. Establish an inexpensive and efficient transportation system using skyhooks. Determine whether Martian thiophenes manifest biotically or abiotically.
+Objective: Accelerate scientific growth, establish Martian residence and industry. 
+Mission Case: Lay down the foundation for a Martian settlement
+Operational Concept: Launch skyhooks into Earth and Mars orbit from Earth. Crew will assemble the base requirements for life support and skyhook launches/landings in-situ. After a break they will assemble the entire MAREST base over a period of ten years. When the base is complete, they will use spectrometry to assess whether or not Martian thiophenes are biotic or abiotic in nature. 
+Assumptions: NASA is capable of sending several of tonnes of payload to Mars as of 2025, by means of conventional rocketry.
+Constraints: Travel time, power generation.
+Introduction
+As humans advance further and further in science, technology and industry, new frontiers in new fields are constantly unlocked. Among these is space travel. Before October 4, 1957, the launch of the Sputnik I, the concept of spaceflight was theoretical. For a long period of time afterwards, it was experimental. Only affordable by the budget of entire nations, spaceflight was restricted to a very classified form of national intelligence. Rocket motors and rocket physics were still being explored, but the proof of concept was there. By the time the Space Shuttle Program was established, spaceflight had transitioned from experimental, to scientific. Launching things into space is very dangerous and expensive, and had little potential for economic return. Even if private entities could perform spaceflight, they likely wouldn’t due to the risks involved. As a result, the only practical use for spaceflight concerned scientific endeavors, such as studying Earth and Space, performed on a public budget. Spaceflight remained mostly scientific until around the time SpaceX achieved consistency with their Falcon 9. By then, rocket intelligence had not only become mainstream and easily accessible, but replicable. The cost of launching things into space decreased and the reliability of equipment increased, prompting the formation of the first ever for-profit space agencies. This stage marks the transformation of space as a purely scientific endeavor, into a commercial and political one. Space-related sub-industries such as asteroid mining, tourism, communication and infrastructure emerged and competition began. 
+At every major stage in the development of spaceflight, NASA played an integral role in extending American presence and science past the Karman line. As the possibility of colonizing Mars gets closer and closer, the need for them to step in and play a role grows. Establishing a central base on Mars can provide infrastructure off which other space agencies can build. This would stimulate the space industry, and perpetuate larger and larger investments into it, and accelerate the rate of scientific research (NASA Socio-Economic Impacts, 2013).  Thus, a mission operational concept is needed, which can satisfy the above requirements of establishing a base on Mars, which can be accessed and expanded upon by scientists and other space agencies.
+Mission Name
+        The mission’s name is MAREST, which is a partial acronym for Mars Residential, Transportational and Scientific Infrastructure Mission. The MAREST project aims to construct a long-term Mars base which can house residents, transport them to and from Earth, and support scientific experiments. The completion of the MAREST mission will mark a major milestone in the history of the human species, as the very first sustainable planetary outpost outside of Earth. The MAREST project will lay down the infrastructure for Martian IV and V settlements, while also serving as a pit stop for further missions, such as those to asteroids. Similar to the ISS, the base will be composed of several modular containers. Other space agencies and private companies will be able to build off of and expand the MAREST accordingly. This can involve the addition of tourist modules, commercial pit-stops, science labs and more. Its ability to adapt will render it capable of fulfilling humanity’s ever-expanding needs as they change and grow. 
+Mission Goals
+Goal I
+        The first goal of the MAREST mission is to establish a life-supporting outpost on the surface of Mars. Aligned with MEPAG’s goal of preparing Mars for human exploration, this base will self-sufficiently provide residents with food, water, oxygen and rocket fuel (Hang & Erickson, n.d.). In addition to housing humans, the base will be capable of supporting scientific experiments. Providing scientists with a usable Mars platform to perform science will accelerate scientific understanding of Mars 
+Goal II
+The second goal concerns traveling to and from Mars. A Mars base which aims to attract all kinds of customers and scientists needs an affordable way to get there. Not every entity with potential on Mars can afford a multi-hundred-million dollar rocket, suits, training and logistics. The MAREST mission aims to satisfy this need by depositing a skyhook each into the individual orbits of Earth and Mars, and building corresponding takeoff/landing pads for the skyhooks. A skyhook is an orbital structure composed of a massive weight, from which extends a long tether, attached to a docking port, or “hook”. The skyhook rotates constantly around its center of mass using angular momentum. Payloads take off from the surface of a planet, then dock with the hook at the end of the tether, at a point in the skyhoook’s arc where it is facing downwards (towards the planet). The skyhook continues to rotate rapidly, accelerating the payload to a great speed, then releasing it when the tangent to the hook’s (therefore payload’s) path of motion is facing in the desired direction. This provides the payload with enough momentum to completely break free of the planet’s gravitational sphere of influence, flying towards Earth (or wherever else it may be). A skyhook in Earth orbit would catch the payload in the “up” position, and release the payload when the tangent to its path of motion faces “down” (towards Earth). With a skyhook relay system implemented between Earth and Mars, traveling between the two planets will be (relatively) inexpensive, and allow for unprecedented increases in payload masses (Denny, 2018). It will accelerate the rate of Mars colonization exponentially, and open a new chapter in the history of space travel. 
+Goal III
+        In February 2020, NASA’s rover, Curiosity, announced that it had discovered thiophenes in Martian regolith (Heinz & Schulze-Makuch, 2020). Thiophenes are isoprenoids produced biologically on Earth. Evidently, they serve as a promising sign of former life on Mars, with one caveat: the thiophenes are not necessarily of biological origin. On Earth, the vast majority of thiophenes are created when sulfur nucleophiles enter a reaction with biological matter, such as oil, under high temperature and pressure (Heinz & Schulze-Makuch, 2020). They are also produced abiotically, albeit in smaller magnitudes, during thermochemical sulfate reactions, when sulfurous chemicals are heated to extreme temperatures. If the thiophenes are indeed biological, then it would be very unlikely that their areas of concentration lack other biomarkers (Heinz & Schulze-Makuch, 2020). Unfortunately, Curiosity is ill-equipped to analyze such small particles in a meaningful way, necessitating higher quality equipment, and deeper investigation. The MAREST crew will use spectrometry to examine samples of soil containing thiophenes, in search for other biomarkers. Correlations between thiophenes and other biomarkers would suggest, at least, an extremely high likelihood of former life. Thus, MAREST’s third goal directly addresses MEPAG’s science goal of determining whether or not Mars ever supported life.
+Location
+Mars is constantly bombarded by solar radiation. Due to its weak magnetic field, at average altitudes, the Martian surface receives 547 µSv (microsieverts) daily, or roughly 20 cSv (centisieverts) per year (Tognetti, Paris, Davies, & Zahniser, 2019). To contextualize the magnitude of such a number, the Nuclear Regulatory Commission stated that 5000 millirems, or 5 cSv, is the maximum annual amount of radiation to which workers can safely be exposed (Personal Annual Radiation Dose Calculator, 2020). Choosing an appropriate location, however, can reduce the MAREST’s radiation exposure significantly. 
+An ideal example is Hellas Planitia, a very flat, low-altitude region of Mars located at 42° 42’ S and 70° 00’ E (Tognetti, Paris, Davies, & Zahniser, 2019). Its flatness enables ease of surface travel, landing, takeoff and construction (Voelker, Hauber, Schulzeck, & Jaumann, 2017). The region’s exposure to radiation is also reduced significantly to 342 µSv/day in comparison with the rest of Mars’ terrain (Fig. 1). Hellas Planitia is also peppered with lava tubes from ancient volcanic activity. Lava tubes are subsurface cave-like cavities formed when lava flows underground, then drains, leaving behind a tunnel. Lava tubes can act as natural shields against solar radiation, making an ideal spot for human settlement. MAREST’s surface outpost will be located in a subsurface lava tube at exactly -33.256° latitude and 93.980°E longitude in Hadriacus Mons’ Dao valley (Fig. 2). Residents protected by the lava tube can expect to receive no more than 61.64 µSv/day (2.25 cSv/year) in radiation, an 82% reduction of the basin’s surface radiation, which is well below the maximum safety threshold for humans. 
+  
+
+Figure 1. Diagram of Mars’ surface radiation (the dark blue spot on the leftmost image is Hellas Planitia) (Estimated Radiation Dosage on Mars, 2002)
+  
+
+Figure 2. Imagery of an ideal lava tube location in the Dao valley southwest of Hadriacus Mons. (Tognetti, Paris, Davies, & Zahniser, 2019)
+Mission Timeline
+
+
+Description
+	Date
+	Duration
+	Initial launches. Astronauts, Mars skyhook and initial build materials head for Mars over several launches. Earth’s skyhook is launched into Earth orbit.
+	January 2025 (Mars in opposition)
+	Six months
+	Astronauts Retrieve, assemble and configure base life support. Astronauts construct skyhook takeoff/landing pads.
+	July 2025
+	One month
+	Astronauts return home via skyhook for a break after their first experience with hard work on Mars. 
+	August 2025
+	Seven months
+	Astronauts practice assembling the MAREST base on Earth (directly after their break).
+	March 2026
+	One month
+	Astronauts and disassembled MAREST base head for Mars via skyhook.
+	April 2026
+	Six months
+	Astronauts assemble base, taking a month-long break on Earth every six months on Mars. (11 cycles)
+	November 2026
+	Ten years
+	Crew takes year-long break
+	November 2036
+	One year
+	Scientists join the crew, and head back. While operating the base, they perform science using soil samples and spectrometry to search for biomarkers. 
+	November 2037
+	Continuous. Designed for maximum nominal operation of ten years, the science experiment runs until it makes a meaningful conclusion.
+	Officially complete, the MAREST base opens to scientists and commercial partners for expansion. 
+	November 2037
+	N/A
+	
+
+Mission Requirements
+Goals I and II
+Requirement I
+        The first requirement of the first goal is for the basic life support, power supply and skyhook launch/landing pad material to be dropped on Mars. Through means of conventional rocketry, payloads will be shipped over to Mars in January 2025. At this time, Mars will be in opposition with the Earth, and the distance to Mars will be relatively short (Ford, n.d.). Payloads will be dropped over the build site in the Dao Vallis region’s lava tube. At this point, the skyhooks for both Earth and Mars will be launched into their respective orbits.
+        Requirement II
+        The next requirement is for the crew to land on Mars. Keeping twenty people alive on a trip to Mars is difficult, so the crew will be split into a few rockets as possible. The amount depends on the state of rocket technology by the year 2025. The rockets will land on Mars, and have surplus fuel for a trip back to Earth in case of an emergency. 
+        Requirement III
+        The third requirement consists of the crew assembling the MAREST base’s water extraction and electrolysis apparatuses. The electrolyser will split the water into oxygen and hydrogen, to provide life support and rocket fuel. Generating resources in-situ will allow astronauts to ease off of their stored supplies, to be saved for emergencies. 
+        Requirement IV
+        The fourth requirement addresses MAREST’s second goal, and consists of assembling the skyhook launching/landing pads.
+        Requirement V
+        Astronauts will return to Earth for a month-long break. They will depart from Mars via skyhook, leaving their rockets on Mars. They will arrive at the hook using a rocket-propelled capsule designed to work with the skyhook, launched over during the initial launch period. The conventional rockets will be left as back-ups in case the skyhooks fail when the astronauts need to leave Mars again. 
+        Requirement VI
+        Upon returning to Mars, astronauts will construct the MAREST base in its entirety, taking a month off on Earth for every six on Mars (excluding time in transit between the two). Astronauts will reside inside the rockets they first used to arrive on Mars until the living quarters of the MAREST base are complete. 
+Goal III        
+Requirement I
+        The third goal’s first requirement concerns excavation of Martian soil. Samples from various Martian biomes will be collected and stored in the laboratory. Key biomes include those of high current and former volcanic activity, poles, lava tubes and regions with high concentrations of sulfur. 
+        Requirement II
+        The soil will be analyzed by mass spectrometers and gas chromatographs over a long period of time. Results will be fed into and processed by a computer, which will compare abnormal molecules with biomarkers on Earth and attempt to draw conclusions. 
+System Requirements
+The system requirements are the working components which together carry out the mission requirements. Each goal of the MAREST has its own specific elements and dynamic. Each mission requirement employs goal-specific elements in its own way.
+Goal I
+The elements of the first goal are those which are involved in making the MAREST outpost habitable. They consist of the base components which support resident’s nutrition and breathing, scientific and commercial pursuits, while providing a comfortable place to stay. 
+Water is the most essential element to supporting life, as it can provide food and rocket fuel in addition to satisfying human’s thirst. Although Martian regolith contains abundances of water in the form of ice, it cannot be accessed simply by being dug out of the ground. Due to its relationship with the soil to which it’s bound, it vaporizes upon contact with the air. MAREST crew will address this issue using a Microwave Pizza Oven (MPO), conceptualized by a research group from the Colorado School of Mines (Wiens, Bommarito, Blumenstein, Ellsworth, & Cisar, n.d.). The MPO will accept volumes of regolith, then shower them with intense microwaves. The radiation will cause the ice to vaporize and detach from the soil, and rise to the top of the MPO cavity. The ceiling, chilled, will condense the particles, and will be sloped in a way that they run down it and collect in a container. With enough soil, the MPO can output water at an hourly rate of 200 grams (Wiens et al, n.d.). Given that the waste water will be reclaimed in the base, this is more than enough to sustain the crew with drinking water, with extra water being saved for electrolysis and hydroponics farms.
+The Martian outpost will generate food in-situ using a hydroponics farm. This is because Mars’ soil lacks the biomatter required to support plant life, and contains an abundance of toxic perchlorates (Cartier, 2018). A hydroponics farm works by running water, enriched with plant nutrients, under the roots of plants. Since it does not necessitate the use of soil, is very compact and very water-efficient, it is an ideal food source for Martians (Dyna-Gro, n.d.). 
+Electrolysis is the process of decomposing chemicals by passing electrical currents through them. Electrolysing water in a certain way can yield hydrogen and oxygen (David, 2005). As such, an electrolysis module will be employed to produce oxygen and hydrogen, when provided water from the MPO. Although pure hydrogen is good rocket fuel, it will be very difficult and impractical to store on Mars (David, 2005). This is because hydrogen must be stored cryogenically, which is extremely power-hungry, and not ideal in a scenario where building resources, import mass and power are limited (Hydrogen for transport and the B&E report, n.d.). As a result, MAREST will employ a sabatier reactor to import carbon from the Martian atmosphere, and pair it at a 1:4 ratio with hydrogen, to make methane (Junaedi, Hawley, Walsh, Roychoudhury, Abney, & Perry, 2011). Methane can be used as rocket fuel, and it is very easy to store (Leucht, 2018). Producing volumes of rocket fuel in-situ will enable residents to travel from, therefore to, Mars at very high rates. Able to support high levels of traffic, the MAREST outpost will serve as the central infrastructure for scientific, industrial and residential colonization of Mars. 
+Goal II
+According to some estimations, sending a single kilogram of payload to Mars requires 225 kilograms of rocket fuel to be burned in the process.[a][b] Even though the MAREST base will produce rocket fuel of its own on Mars, the 225:1 mass ratio is infeasibly high for importing hundreds of kilograms of building material, equipment and supplies (Leucht, 2018). As a result, MAREST will invest in skyhooks, as a means to drastically reduce the cost of transportation, further in the future. 
+The vast majority of propellant required for spaceflight is used to enter an elliptical Earth orbit, then transfer to a hyperbolic one. Fortunately, there is a means of doing that, at very low costs, using skyhooks. As explained previously, skyhooks can be used to slingshot payloads in sub-orbital spaceflight into hyperbolic orbit. The drawback normally would be that rotational momentum transferred into the payload is lost by the skyhook. The authentic, profound genius of the skyhook, however, lies in the fact that momentum lost from the sender skyhook is transferred to the receiving skyhook. That skyhook can then use its gained momentum to slingshot a different payload back to Mars, returning the momentum back to the first skyhook. Thus, momentum is conserved, and payloads do not need to use any fuel to enter and depart from orbit (Denny, 2018). The entire mass of the fuel required to enter then depart from Earth orbit can be replaced with payload. Although the skyhook’s propellant mass fraction for a payload to Mars has not been estimated, it is certainly a drastically reduced version of its conventional rocket counterparts. 
+The skyhook elements consist of a skyhook and launching/landing pads on Earth and Mars. Special rocket-powered capsules will be used to fly up to the skyhooks, engage and disengage the hooks, and land. They will be designed specifically to accommodate the high G-forces imposed upon them from the rapid swinging motion of the skyhooks. 
+Goal III
+The MAREST mission’s third goal necessitates a number of hardware elements, including excavators, spectrometers, and computers. It will also employ a highly sophisticated software program meant to analyze spectrometry readings and draw conclusions. 
+SLAM-enabled autonomous rovers will be deposited on Mars to collect soil samples from various, predetermined biomes around the planet. Powered by solar panels, they will take long trips to areas of high and low altitude, temperature, radiation, volcanic activity and water ice concentration. They will excavate samples from the ground, and return back to the MAREST base’s build site. Due to the time this will take, it will occur passively while the crew works on the base, with all samples to be fully compiled by the time the base is finished with construction. 
+The crew will supply a spectrometer-equipped container with regolith collected from the diverse array of soil samples collected by the rovers. The spectrometer will take readings from particles in the soil, and feed them to the supercomputer to process. The computer’s code will be a complex network of artificial neural webs. Thus, the computer will get better at drawing conclusions as it is given more data, increasing its accuracy over time. This is because it will accumulate more data, acquired from previous analyses, to make comparisons and observations on multiple layers of complexity.
+Crew
+The MAREST, consisting of an orbital structure, underground living quarters, life support and rocketry equipment, cannot be transported to Mars in one piece on one flight. Due to the limits of the masses which rockets are capable of carrying to Mars, the MAREST base components will be split into several different parts to be assembled on the surface of Mars. The parts will be transported to Mars over several flights. A crew of twenty highly competent engineers will assemble the MAREST on the Martian surface. 
+Selection
+        The conditions under which the MAREST crew will live will be extremely uncomfortable and stressful. Due to the cost of sending build material to Mars, they will likely reside in small living quarters with minimal personal space. A lack of personal space significantly contributes to high mental stress, as observed in submarines (Bridger, Kilminster, & Drew, 2010). The lack of natural stress-reducers, such as plants, animals and a sunny atmosphere, can contribute to further mental load on astronauts. All of the above, combined with the fact that astronauts will live knowing that they could, at any second, die due to equipment failure, is bound to impart significant psychological loads. As a result, a major factor in selecting crew members capable of taking part in the MAREST mission will be their ability to perform complex tasks cooperatively, level-headedly and intelligently under immense stress. 
+        Crew members will work as a team, and the MAREST mission ultimately relies on their ability to cooperate. Candidates with better social skills and higher EQs will be favored over their equally qualified, possibly more qualified counterparts. Not only will the crew be picked based on individual merit, but potential crews will be grouped based on how much they have in common. The lack of a social environment requires a group of members with enough in common that they get along smoothly, but diverse enough that they do not feel isolated. 
+        Physical capability will play a significant role in the selection of candidates. Although Mars’ gravity is reduced, astronauts will be wearing bulky mars suits, manipulating heavier objects and working long hours. Astronauts who will be able to power through the labor will be highly favored. 
+Responsibilities
+        The crew will carry out many different responsibilities which will change as the mission
+nears completion. Their main responsibility will be assembling life support modules, skyhook launching and landing facilities, as well as the base itself. Each crew member will have learned an extensive amount of skills and topics, such as welding, electrical set-up, plumbing and HVAC before arriving on Mars. They will have practiced assembling the entire outpost in Mars-like conditions on Earth, and each member will know what to do when they arrive on Mars. 
+        They will constantly tend to and maintain the active processes, such as resource generation. This includes loading the MPO with soil and harvesting water. They will have to load the electrolyser periodically, and harvest methane and oxygen. When the base is built, they will need to load the spectrometer with soil and rotate samples periodically. They will also have to tend to the hydroponics farm regularly, maintaining cleanliness and ensuring plant survival. 
+Constraints
+        Although skyhooks drastically reduce the cost of space travel, they do not reduce the duration. Duration remains a significant hindrance to progress in the MAREST mission. Due to the intensity and hostility of working on Mars, the crew will often need to take breaks on Earth to unwind. Unfortunately, since a trip between Earth and Mars takes roughly six months, the frequency of these breaks is drastically reduced. For every month the crew spends on Earth, they spend an entire year in transit in space. Unfortunately, their psychological needs cannot be ignored, the thirteen-month cycle cannot be mitigated. As such, the distance between Earth and Mars extends the length of the mission by one year for every six months of Mars work[c]. 
+        Another significant constraint facing the MAREST mission concerns power consumption. The MAREST base’s assembly and end product will consume immense amounts of power. Simultaneously continuously running the MPO, electrolyser, sabatier reactor, hydroponic farm, and general utilities such as lighting, charging suits and operating machinery will play a big role. Using solar panels will not be practical for this application, due to the amount of power needing to be produced. Mars only receives about 44% of the light Earth does, due to its distance from the Sun (Canright, 2004). Plus, solar panels aren’t a great option for a base built for longevity, since they are relatively fragile and can be damaged by storms. Radioisotope thermoelectric generators are not satisfactory either. Although they are low-maintenance, very robust and can be stored underground, they are incredibly expensive, costing roughly $118 million dollars each, and have low power output density (Werner, Johnson, Dwight & Lively, 2016). The only feasible option is a custom, small-scale fission reactor. Although dangerous, expensive and massive, it will be able to output power at very high densities, and can be made very robust. It can and will specifically be designed to require little to no maintenance, using highly enriched uranium for a long operational lifespan (Trainor, 2017). 
+Risk Assessment and Mitigation
+        One significant risk, posed against the health of astronauts, is Martian regolith. Martian regolith is electrostatically discharged[d][e], meaning it sticks to everything (Calle, n.d.). It can get in machinery and jam airlocks, pneumatics, motors—anything that moves. This can pose a serious threat to the crew, as most of the technology they work with is what keeps them alive. An aspect of the solid which is perhaps more dangerous, however, is the toxicity of the sand. The perchlorate concentration in the sand is enough to seriously injure astronauts upon being inhaled (Leucht, 2018) Although they will be breathing through tanks when outside of their shelters, the dust can stick to their clothes and be tracked in. It can also enter through airlocks with crew members, if the wind is strong enough.
+        The risk can be mitigated by covering machine joints with flexible plastic cloths, wrapped around and sealed at the ends. Machinery which cannot be sealed as such will have to be regularly cleaned, and have parts susceptible to clogging rotated periodically. The risk of astronauts tracking dust into their habitats can be mitigated by employing special suits which never actually enter the base. For example, the suit could dock from the back with the base, and a panel inside of the docking port could open, through which the astronaut would leave the suit and enter the base. This would also eliminate the need for airlocks, as the entryway opens after the suit has docked. Thus, there would be no chance of winds sweeping in regolith, which could then be tracked into the base underfoot.
+        Another significant challenge astronauts will face is gravity, or the lack thereof. Astronauts going to Mars will spend months in weightlessness, then work for months on an environment imposing 38% of the gravity of Earth[f], then spend months going back to Earth. This cycle will repeat several times throughout the construction of the MAREST base, and will impose significant strains to the astronaut’s bodies. Firstly, astronauts can experience muscle atrophy in micro or reduced gravity, due to decreased strains. Time in weightlessness also contributes to a condition known as spaceflight osteopenia, which causes astronauts to lose bone density at 1% per month (Nick, Dietrich, 2018). Such long periods of inaction also loosen the body’s production of blood plasma (Canright, 2009). Suddenly switching from months of inaction on a space vessel to grueling work on Mars may stress the bodies of the crew significantly.
+To mitigate this, crew members will need to exercise for hours a day during their time in transit between Earth and Mars. Intense exercise negates microgravity’s effects on muscles, and slows its effects on bones. Increased cardiovascular work also stimulates the body to retain plasma. Thus, exercise can, for the most part, keep astronauts healthy and prepared for their work on Mars (Canright, 2009).
+Conclusion
+The MAREST mission is a mission to Mars meant to lay down the infrastructure for a future Mars civilization, and determine if Mars ever supported life. Composed of a base and two skyhooks, it is projected to be affordable[g] and self-sufficient. Equipped with an MPO, electrolysis unit, hydroponics farm and sabatier reactor, the base can provide its residents with food, water, oxygen and rocket fuel. Since these are produced in-situ, utilizing Martian resources, the base is very efficient and inexpensive to maintain.  The base will be designed in a way similar to the ISS, in the sense that it is modular; it can be expanded upon, as partners add their own modules. This way, the MAREST base can support Martian colonization in the long-term, adapting to fulfill the needs of science and the space industry as they grow. When assembly of the base is complete, the MAREST mission’s scientific aspect will begin. Using[h] a spectrometer and a supercomputer, scientists will examine Martian regolith in great detail, to find potential  biomarkers, or draw conclusions regarding Martian thiophenes. A meaningful conclusion from the computer will ultimately mark the completion of the MAREST mission, opening a new chapter in the history of the human species as it pertains to colonization.  
+Gonderdim, tesekkurler
+1 dakkadan az kaldi (11:55a) -- tmm -- iyi geceler
+iYI GECELER.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ References
+Bridger, R., Kilminster, S., & Drew, A. (2010, March). Occupational Stress in Submariners: the 
+Impact of Isolated and Confined Work on Psychological Well-Being. Retrieved April 1, 2020, from https://www.ncbi.nlm.nih.gov/pubmed/20191405
+Calle, C. I. (n.d.). The Electrostatic Environments of Mars and the Moon. Retrieved April 1, 
+2020, from https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110008730.pdf
+Canright, S. (2004, July 22). How Far? How Faint? Retrieved April 1, 2020, from 
+https://www.nasa.gov/audience/foreducators/9-12/features/F_How_Far_How_Faint.html
+Canright, S. (2009, April 9). Your Body in Space: Use it or Lose it. Retrieved March 6, 2020, 
+from https://www.nasa.gov/audience/forstudents/5-8/features/F_Your_Body_in_Space.html
+Cartier, K. (2018, January 12). Tests Indicate Which Edible Plants could Thrive on Mars. 
+Retrieved March 6, 2020, from https://eos.org/articles/tests-indicate-which-edible-plants-could-thrive-on-mars 
+Denny, M. (2018, April 9). Space Tether Dynamics: an Introduction. Retrieved April 1, 2020, 
+from https://iopscience.iop.org/article/10.1088/1361-6404/aaac9c/meta
+Dyna-Gro. (n.d.). Hydroponics: Advantages and Disadvantages. Retrieved March 6, 2020, from 
+https://dyna-gro.com/hydroponics-advantages-and-disadvantages/
+Estimated Radiation Dosage on Mars. (2002, March 1). Retrieved April 1, 2020, from 
+https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA03480
+Ford, D. (n.d.). Mars at Opposition. Retrieved April 1, 2020, from 
+https://in-the-sky.org/news.php?id=20250116_12_100
+Heinz, J., & Schulze-Makuch, D. (2020, February). Thiophenes on Mars: Biotic or Abiotic in 
+Origin? Retrieved March 17, 2020, from https://sci-hub.tw/https://doi.org/10.1089/ast.2019.2139
+Hang, W., & Erickson, S. (n.d.). Mars Exploration Program Analysis Group. Retrieved April 1, 
+2020, from https://mepag.jpl.nasa.gov/about.cfm
+Hydrogen for Transport and the B&E Report. (n.d.). Retrieved April 1, 2020, from 
+https://planetforlife.com/h2/h2swiss.html
+Junaedi, C., Hawley, K., Walsh, D., Roychoudhury, S., Abney, M. B., & Perry, J. L. (2011, July). 
+Compact and Lightweight Sabatier Reactor for Carbon Dioxide Reduction. Retrieved April 1, 2020, from https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120016419.pdf
+Kanas, Nick; Manzey, Dietrich (2008), "Basic Issues of Human Adaptation to Space Flight", 
+Space Psychology and Psychiatry, Space Technology Library, 22: 15–48, doi:10.1007/978-1-4020-6770-9_2, ISBN 978-1-4020-6769-3 
+Leucht, K. W. (2018, October 30). How NASA Will Use Robots to Create Rocket Fuel From 
+Martian Soil. Retrieved April 1, 2020, from https://spectrum.ieee.org/aerospace/robotic-exploration/how-nasa-will-use-robots-to-create-rocket-fuel-from-martian-soil
+NASA Socio-Economic Impacts. (2013, April). Retrieved April 1, 2020, from 
+https://www.nasa.gov/sites/default/files/files/SEINSI.pdf
+Personal Annual Radiation Dose Calculator. (2020, January 31). Retrieved April 1, 2020, from 
+https://www.nrc.gov/about-nrc/radiation/around-us/calculator.html
+Tognetti, L., Paris, A., Davies, E. T., & Zahniser, C. (2019, October). PROSPECTIVE LAVA 
+TUBES AT HELLAS PLANITIA-LEVERAGING VOLCANIC FEATURES ON MARS TO PROVIDE CREWED MISSIONS PROTECTION FROM RADIATION. Retrieved April 1, 2020, from https://www.researchgate.net/publication/336749472_PROSPECTIVE_LAVA_TUBES_AT_HELLAS_PLANITIA-LEVERAGING_VOLCANIC_FEATURES_ON_MARS_TO_PROVIDE_CREWED_MISSIONS_PROTECTION_FROM_RADIATION
+Trainor, J. (2017, August 14). Packing for Mars? Don’t Forget the Nuclear Reactor. Retrieved 
+April 1, 2020, from https://www.nei.org/news/2017/packing-for-mars-dont-forget-the-nuclear-reactor
+Voelker, M., Hauber, E., Schulzeck, F., & Jaumann, R. (2017, October 1). Grid-mapping Hellas 
+Planitia, Mars – Insights into Distribution, Evolution and Geomorphology of (Peri)-glacial, Fluvial and Lacustrine Landforms in Mars' Deepest basin. Retrieved April 1, 2020, from https://www.sciencedirect.com/science/article/abs/pii/S0032063317300934
+Werner, J. E., Johnson, S. G., Dwight, C. C., & Lively, K. L. (2016, July). Cost Comparison in 
+2015 Dollars for Radioisotope Power Systems—Cassini and Mars Science Laboratory. Retrieved March 6, 2020, from https://inldigitallibrary.inl.gov/sites/sti/sti/7267852.pdf 
+Wiens, J., Bommarito, F., Blumenstein, E., Ellsworth, M., & Cisar, T. (n.d.). Water Extraction 
+from Martian Soil. Retrieved March 6, 2020, from https://www.lpi.usra.edu/publications/reports/CB-1106/csm01.pdf
+
+
+Outreach Flyer
+Image source: https://bit.ly/2xf8fmH (middle left)  
+ https://bit.ly/3egLZJB (bottom right)
+[a]Bu dunyadan Marsa gondermek icin, tersi daha kolaydir herhalde. O rakam kac?
+[b]Bilmiyorum
+[c]Mars'da gerekli sayinin 3 kati astronot olsa sirayla gidip birer yil kalsalar?
+[d]electrostatically charged?
+[e]ayni sey. eletrostatically discharged'sa, de-ionize etmek icin ters charge olan seye yapismasi lazim
+[f]yanlis. "The surface gravity on Mars is only about 38% of the surface gravity on Earth, so if you weigh 100 pounds on Earth, you would weigh only 38 pounds on Mars."
+[g]feasible?
+[h]"As the first project, scientists will examine...."

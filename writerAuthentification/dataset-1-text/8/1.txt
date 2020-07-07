@@ -1,0 +1,99 @@
+﻿Martian Thiophene Bioticity Experiment                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Martian Thiophene Bioticity Experiment
+Aydin Gokce
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+The Mars Thiophene Bioticity Experiment (THIO-BIO) is a long-term experiment aimed to determine whether or not the Thiophenes found on the surface of Mars were produced biologically. If so, THIO-BIO would satisfy MEPAG’s science goal of determining whether or not life existed on Mars. Although thiophenes on Earth are commonly associated with organic processes, this does not necessarily mean that Martian thiophenes are organic in nature. With the help of a spectrometer and a supercomputer, two teams of scientists will work together to detect molecules and patterns which may suggest or prove the biotic status of the thiophenes. In particular, the main goals of THIO-BIO are to observe the presence or total lack of other biomarkers, the isotopic states of Martian thiophenes and correlations between concentrations of thiophenes, carbon, sulfur and other molecules. The experiment will be constantly maintained in-situ by periodically rotating groups of astronaut scientists. Due to the combined power consumption of a supercomputer and a spectrometer, THIO-BIO will rely on a small-scale fission reactor for energy. The end product of THIO-BIO will be either hints or definite proof that life did or did not, at some point, exist on Mars. 
+Keywords: THIO-BIO, thiophenes, spectrometry, biological, organic
+
+
+
+
+
+
+Introduction
+        In February of 2020, NASA announced that its Curiosity rover had detected thiophenes on Mars (Heinz & Schulze-Makuch, 2020). Thiophenes, a kind of aromatic isoprenoid are commonly of organic nature on Earth. As a result, they are a relatively promising sign of life. On Earth, they are produced in greatest abundance when sulfur nucleophiles react with biological material during sedimentary diagenesis. In addition to the biological material consisting of isoprenoids, the sulfur nucleophiles can be produced as a direct result of sulfate-reducing bacteria. Thus, thiophenes have a high potential to be secondary indicators of life (Kohnen et al, 1991). On Earth, they are naturally present in crude oil, kerogen, fossils, coal and stromatolites (Heinz & Schulze-Makuch, 2020). Unfortunately, thiophenes can also be produced by abiotic thermochemical sulfate reactions (TSRs), in which certain sulfur-containing compounds are heated to a minimum temperature of 120℃ (Anderson, 2020). As such, their presence on Mars is not necessarily an indicator of past life. 
+Evidently, further research is needed to determine whether or not these thiophenes are of biological origin. One way to assess whether or not that is the case would be to examine the thiophenes, search for other biomarkers and identify molecular patterns in Martian regolith. The Mars Thiophene Bioticity Experiment (THIO-BIO) is an experiment to be performed on Mars in-situ which aims to provide insight into the origin of Martian thiophenes. The main means of doing so are by examining the composition of soil samples in which thiophenes are present. Finding evidence of oils, coals and other biomarkers may provide definitive proof that the thiophenes, like on Earth, were formed biologically during diagenesis (Heinz & Schulze-Makuch, 2020). As a result, THIO-BIO aligns perfectly with one of MEPAG’s four main science goals: to determine whether or not life existed on Mars. 
+Experimental Procedure and Hardware
+The contents of Martian sediment will be determined by a mass spectrometer, and its readings will be analyzed by a supercomputer. Over long periods of time, the sediments will be modeled and analyzed by computer algorithms to detect organic molecules, and it will assess their likelihood of biological origin in comparison with the material surrounding them. Spectrometry will serve an especially crucial role in observing the isotopic states of atoms which comprise potential biomarkers. Finding molecules associated with lighter isotopes of sulfur, which are preferred by living organisms, would strongly suggest that such potential biomarkers, including thiophenes, are organic in nature (Anderson, 2020).
+The detection and analysis apparatuses will be set up and maintained by a team of scientists in-situ. Due to the cost of sending people to Mars and back, they will live in a Mars base and rotate every six months. Their tasks will include loading the spectrometer with Martian soil, excavating and rotating soil samples and maintaining hardware. On Earth, a team of data scientists will analyze the experiment’s results and adjust the computer’s code to improve pattern recognition when necessary. It is crucial that the experiment be allowed to run for long periods of time due to the depth to which the algorithms, based on artificial neural networks, will need to examine and compare the particles. Squeezing it into a short time frame would result in fewer soil samples and shallow and rushed analyses. This means that data collection and analysis will occur simultaneously, making a data factory of a scientific experiment. 
+The type of data that will be returned by the computer will be notable observations concerning the sediment and its contents. For example, after a three month period, the computer may note that there is a correlation with iridium deposits, an element commonly found on asteroids, and thiophenes. The lack of any other biomarker may suggest that the thiophenes are abiotic in nature, and manifest on the surface of Mars from previous asteroid impacts. After six months, the computer may determine that its previous observation was irrelevant, as iridium only coincided with the presence of thiophenes in one particular area. After one year, it may conclude, for example, that the thiophenes were produced as a result of TSRs during volcanic explosions. This is due to their correlation with concentrations of volcanic matter, and only being observed in regions where there are active or once-active volcanoes. The experiment will be designed for an operational lifetime of ten years, but it may end sooner depending on what it discovers. There are four possibilities of which the results may be: definite proof of former life, suggestive evidence for former life, suggestive evidence of a lack of former life and definitive proof of abiotic thiophenes. 
+Constantly running a supercomputer and a spectrometer simultaneously is going to require a lot of electricity. To contextualize that amount of power needed, Pleiades, NASA’s standard supercomputer, consumes 2.35 megawatts of power (Mewhinney & Dunbar, 2009). A small-scale fission reactor will be implemented to satisfy not only the power requirements of the scientific hardware, but the life support and living quarters for the scientists. Its robustness, efficiency, longevity and immense power output will provide a reliable and consistent source of power (Poston & McClure, 2018). 
+Conclusion
+Curiosity Rover’s discovery of thiophenes on Mars may suggest that microbial life existed on Mars at some point. On Earth, thiophenes are common byproducts of diagenesis, where sulfur nucleophiles react with organic matter. Thiophenes are not, however, definitive proof of former life on Mars, because they can be synthesized abiotically. THIO-BIO is a long-term experiment aimed to assess the origin of Martian thiophenes, and determine whether or not they were formed biologically. A spectrometer, a supercomputer and a team of scientists will examine and analyze Martian soil samples to search for biomarkers or patterns which may suggest that the thiophenes were produced abiotically. The experiment will run for an extended period to time to make deep and detailed analyses. The hardware will be maintained by scientists in-situ and the software will be maintained by a team of data scientists on Earth. In the end, THIO-BIO aims to provide evidence which suggests or proves that the thiophenes either are or are not of biological origin. 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+Anderson, P. (2020, March 19). What's Cool about Curiosity's Discovery of Organic Molecules 
+on Mars. Retrieved March 17, 2020, from https://earthsky.org/space/thiophenes-organic-molecules-curiosity-rover-mars-life
+Heinz, J., & Schulze-Makuch, D. (2020, February). Thiophenes on Mars: Biotic or Abiotic in 
+Origin? Retrieved March 17, 2020, from https://sci-hub.tw/https://doi.org/10.1089/ast.2019.2139
+Kohnen, M.E.L., Sinninghe Damste, J.S., and De Leeuw, J.W. (1991) Biases from natural 
+sulphurization in palaeoenvironmental reconstruction based on hydrocarbon biomarker distributions. Nature 349:775–778.
+Mewhinney, M., & Dunbar, J. (2009, November 18). NASA's Supercomputer Ranks Among the 
+World's Fastest. Retrieved March 17, 2020, from https://www.nasa.gov/centers/ames/news/releases/2009/09-148AR.html
+Poston, D., & McClure, P. (2018, January 18). How a Small Nuclear Reactor could Power Mars 
+or Beyond. Retrieved March 17, 2020, from https://www.space.com/39413-small-nuclear-reactor-kilopower-mars-colony.html

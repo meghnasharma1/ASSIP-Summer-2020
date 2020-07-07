@@ -1,0 +1,172 @@
+﻿LUS-COM                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Central Lunar Scientific and Commercial Operations Module
+Aydin Gokce
+Virginia Aerospace Science and Technology Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+The Central Lunar Scientific and Commercial Operations Module (LUS-COM) is a mission to construct a general-purpose long-term Lunar base for scientific research, tourism and space travel. Built into the Lunar lava tubes of the Marius Hills, the base will be well-protected from cosmic radiation and asteroid strikes, while maintaining a direct and clear view of earth. The base will thrive on the Moon’s abundant supply of water ice, used for life support and rocket fuel. Power is obtained from a several-acre solar array. A hydroponic greenhouse will provide a constant supply of fresh food to the entire base. The complexity of the mission requires a 16-year time period to complete construction in five different phases: Material and supply drops on the build site, preparing for construction, establishing self-sufficiency, large-scale construction, and advanced technology implementation. Once complete, the base will be completely self-sufficient. It will support rocket launches and landings, refuel rockets as they slingshot around the moon, accommodate large-scale tourism, conduct scientific research, and partner with third parties for whatever future endeavors may arise as humanity, for the first time in the history of its species, colonises the Moon.
+Keywords: LUS-COM, rocket, Lunar, life support, self-sufficiency, science.
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction 
+Building a lunar base is imperative in many aspects to the future of mankind as it pertains to space. It would be a tremendous milestone, marking the very first extraterrestrial colony, and prove that long-term extraterrestrial settlements are not only viable, but beneficial both economically and scientifically (Duke, Wendell & Roberts, n.d.). It would also set up the infrastructure needed for more difficult missions, such as going to Mars, NEOs or even further. For example, Lunar bases could act as pit-stops for crew on long missions. Lunar skyhooks and orbital refueling stations could drastically increase the range of intrasolar-systemic missions. Powerful lasers on the Lunar surface, thriving in the absence of an atmosphere, can accelerate solar sails to tens of kilometers per second.
+Such a Lunar base would need to be self-sufficient. Using it to send rockets to further places implies that humanity has moved on to greater, harder and farther missions, meaning there will be very little resources and money to spare for upholding a base on the Moon. The base, after all, is intended to be a means to an end, not an end itself. This means the base should not rely on resupply shipments from Earth, and instead be capable of generating its own power, food, water, oxygen, and rocket fuel.  
+The Moon is a hostile place: there is no drinkable water or breathable atmosphere. The environment is nothing but barren rock. There is no ozone layer to protect from harmful radiation, and the surface is beaten down by over a metric ton of meteoroids daily (Philips & Dooling, 2006). 
+A plan is needed for a base which can satisfy all of the above in a timely and economically feasible manner. It must be autonomous, and ideally be capable of paying for itself. Draining all of NASA’s budget on a project meant to aid other projects that are now impossible due to the lack of money would not be a wise move. 
+Composition
+The Central Lunar Science and Commercial Operations Module (LUS-COM) is that plan: a lunar base capable of housing humans, advancing scientific research, supporting rocketry, all self-sufficiently, working with what little resources the Moon offers: water and shelter. 
+ Lava tubes are Lunar caves that sprawl tens of kilometers beneath the surface. Not only are they protective from radiation and asteroid impacts, but they can be drilled into from above to install elevators, tubes, wires and other material stretching through the ceiling to the surface. The LUS-COM will be built in the Marius Hills lava tube due to its size greater than the entire city of Philadelphia (Geggel, 2017). This way, it would be possible to create safe bases winding great distances beneath the Moon’s hard outer shell, while also being able to station antennae, telescopes, exits/entrances and even windows directly overhead, unblocked by the meters of Lunar bedrock (Willings, Walden & Lynn York, n.d.).
+ As the base stretches further and further, a method of transportation akin to the bullet train will be used to transport people and equipment across the tunnels. For every module added on to the LUS-COM, a pertaining length of track will be added, such that anyone who would like to travel to and from there may call a train, specify a destination and be off with speed.
+
+
+Water ice, the other gift from an otherwise cold and unfeeling space rock, will be the life of the entire base. It will not only provide drinking water once purified, but it will keep the base’s plants alive, and, when separated into oxygen and hydrogen, it will provide breathable air and rocket fuel. Thus the base will not only be able subsist alone by itself, it will be able to make launches to and from the moon on its own accord.
+Services
+The LUS-COM will be an engine for scientific research by enabling many experiments and unlocking technology which would be much more difficult or impossible to obtain and conduct on Earth. For example, the lack of an atmosphere on the moon would allow scientists to study cosmic rays and celestial bodies directly from surface ground stations, without needing to launch and maintain satellites in orbit (Lunar Exploration Objectives, 2006). This would drastically increase flexibility, as orbital satellites are very limited in terms of how much mass they can have for launches from Earth, how frequently they can be serviced and improved and how expensive they are to build in the first place (Tarpley, 2018). 
+One big example is studying black holes. Stationing radio interferometry arrays on the surface of the moon will allow scientists to study black holes with much greater precision (Lunar Exploration Objectives, 2006). During phase 5 construction, the LUS-COM crew will work on a large, deep-space interferometer telescope.
+The abundance of helium-3 in Lunar regolith will enable scientists to study its potential as a viable reaction agent in nuclear fusion (Fa & Jin, 2007). Several fusion labs for exactly that purpose will be built in the 5th phase of the LUS-COM’s construction. A big expense of fusion reaction research is radiation containment- keeping harmful rays and material from  damaging the environment or humans. Since there is no environment on the Moon to damage, fusion research would not only be much cheaper, but it may even result in positive net energy generation, provided research is conducted away from humans in the base, outside radiation shields.
+The LUS-COM is not limited to scientific endeavors. Working with commercial partners will help NASA directly by aiding the LUS-COM project, and indirectly by stimulating the space industry. Additionally, it will likely pay itself off several times over within a few years of operation by selling its services to tourists and private companies. The LUS-COM, much like the ISS, is meant to be highly modular, in order to allow expansion to satisfy whatever needs may arise in the future. This means anyone -private companies and other nations- may add on to the LUS-COM provided their proposal is approved by the base. Such flexibility will help humanity transition into an age of scientific exploration. Lunar tourism is an industry expected to boom as space travel becomes primed for public use (Webber, 2019). The LUS-COM would include hotel-like comfortable living quarters with an amazing view, and allow other companies to add their own. Companies like SpaceX, who plan to ferry humans to space and eventually the moon, would be an example of a company to use the LUS-COM (Wall, 2019). Asteroid mining is another example of the LUS-COM could benefit the global economy, by providing the infrastructure required to make multiple trips to asteroids and back[a].
+Evidently, the aforementioned are all based merely on what is known today. Decades ago, few would have even imagined a self-sustaining Moon base was even a possibility. In a few decades, who knows what new opportunities may arise? It is with such sentiment that the LUS-COM was intended to be modular, easy to access and expand, and build upon to meet the future’s challenges.
+Operation, Timeline and Execution.
+The LUS-COM project is one of great complexity, to be executed in five phases spanning a period of 16 years. There will be a very high demand for skilled astronauts. A worldwide selection program will be opened, and 200 applicants will be chosen and trained to work on the LUS-COM. Although the main construction phases, 1-4, only require 110 astronauts, there will inevitably be some who leave due to the pressure, injury, family issues, or simply decide they hate their job, and thus the remaining 90 are kept as reserve.  They will be trained based on the specific skill they apply for, and the aptitude they pertain to that skill. Examples include aerospace, mechanical and electrical engineering, computer science, payload specialization, and rocket dynamics. Every selected astronaut will be cross-trained both on how to be an astronaut and in their specific skill set. The cost and duration of training and paying astronauts makes them a very expensive investment. As a result, a nationwide application process will be opened to select the best prepared, most apt candidates for the position. Basic qualifications include the lowest level of education being a high school diploma. Applicants must have a superb track record of health: there would be no point in investing tens of thousands in someone who can have a heart attack and die for an unrelated reason on the Moon. They must be in good physical condition, as lifting objects heavy even for the Moon’s gravity in space suits will be strenuous and difficult. They must be in optimal mental health and stress resilient. Long-term space missions will be psychologically difficult to handle, and the astronaut must be capable of keeping calm and under pressure and irregular circumstances. Applicants must also be between 18-25 years of age. Astronauts who work on the LUS-COM will be spending their entire career on it, then will be able to retire after completion. As a result, they must be young enough to constantly work on the project from its beginning to end, growing with the base and their fellow coworkers.
+Phase 1
+        The first phase of the LUS-COM project will be the most expensive and least fruitful- naturally, as the Lunar base will gradually become cheaper to maintain as it develops self-sustainability. It will take one year to complete, and consists of rockets making trips to the Moon to deliver payloads for the crew to set up later. Instead of landing, unloading the shipment, and taking off again, the rockets, autonomous for cost reduction, will drop the payload, loop around the moon and gravity assist back to Earth. Dropping the payload will require much less fuel than landing and taking off again, further reducing costs. The payloads, when decoupled from the rocket, will use an attached RCS apparatus to ensure accurate sub-orbital trajectory and safe touchdown to the landing site. The payloads will include inflatable living quarters, freeze-dried food, water, fuel, solar panels, machinery, plant seeds, and construction materials for rocket take-off/landing, water purification and electrolysis, large-scale living quarters, and the materials required to completely start and finish the LUS-COM, to be used in phases 3-4. 
+Phase 2
+        Although the build materials are on the Moon, the LUS-COM still won’t be ready for full-scale construction, as there is no way to support a full-fledged long-term construction project requiring large amounts of food, water, power, living space etc. As a result, a team of  at least 10 astronauts- all engineers, will land first and begin to assemble the infrastructure required to start building. The 10-figure minimum will keep them socially healthy and psychologically stable. They will stay in small, inflatable living quarters in their build site. Astronauts will only stay for two-month periods, as living in cramped tubes on a hostile planet working several hours per day in unusual conditions may strain them both mentally and physically. In this phase, the water purification, worker living quarters/life support, construction machinery, lighting, landing/launching pads and solar arrays will be set up and prepared for the operation.
+Phase 3
+        The main goal of phase three is to turn a meager, empty construction site into a self-sufficient one. With the build site primed and ready for construction, a team of 100 astronauts/construction workers will begin working on the LUS-COM. Now able to house ten times the amount of workers of the previous phase for longer durations with better tools, it is only expected to take two years and four months to finish the base’s foundation, greenhouse and H2O electrolysis apparatus. The H2O electrolysis apparatus is a mechanism which electrolyses water, obtained from lunar ice, into its constituent parts: hydrogen and oxygen (Dunnill, 2018). The oxygen can be used for life support, and when paired with hydrogen, rocket fuel. Thus the LUS-COM would be completely and totally self-sufficient. Producing its own water, food and oxygen, as well as rocket fuel, would allow long-term independent functionality, thus establishing a foundation off which to finish the moon base 
+Phase 4
+        With the LUS-COM ready to be completed, the 100-astronaut team will return from their break, and finish the LUS-COM, returning to Earth for a one-month period every 11 months, completing the project in ten years.  Jobs are distributed as such: one project manager- the liaison between headquarters and the build team. Five project supervisors, taking command from the manager and adapting it based on a pertaining subproject’s difficulty and progress. Project supervisors have no speciality, and they change projects as they are finished and new ones are started. To avoid animosity within the hierarchy, supervisors are not allowed to work, and are compensated less than workers. The remaining 94 positions are distributed as such: 30 electrical systems specialists, 15 mechanical systems specialists, 10 computer systems analysts, 2 HVAC specialists, 2 payload specialists, 2 botanists, 2 plumbing specialists, 2 chemists, 2 lighting specialists, 2 social psychologists, 2 radio systems specialists, 2 nuclear physicists, 2 radiation specialists, 2 astronomers, and the rest of the workers do not have special fields. There are no rotations: it is the same 100 each and every time, save for those who may quit the project early. This is because building the LUS-COM is not a regular job. Workers need to know the exact project plan, how it’s developing, and what they will do next. Workers will grow with the base- it’ll be their entire career’s product. Astronauts will work on the LUS-COM because they genuinely believe in it, and they will be compensated afterwards with equal magnitude. Phase 4 construction will complete the living quarters for tourists, scientists and staff, science labs, HVAC, plumbing, solar arrays, telemetry, transportation, lighting, radiation shields, and life support for all the buildings. They will study and learn each trade they work on, while receiving constant real-time support from career specialists on Earth as they work on pertaining parts of the base. 
+Phase 5
+        With the LUS-COM built and fully self-sustaining, it will open to specialists to furnish the interiors, scientists to commence their research, botanists to begin and maintain the hydroponics on a full scale, and engineers/technicians to run the various facilities such as electrolysis and power generation. Within a few weeks, the base will be open to tourists. Phase five also includes the implementation of advanced technologies. Construction of space facilities and hangars will begin, to be followed by launches of skyhooks and orbital refueling stations, though those are far beyond the scope of this the project at its current stage. It will also open to a new generation of astronaut-engineers to begin constructing telescopes and fusion research labs. By the time Phase five is completed, the Central Lunar Scientific and Commercial Operations Module will be finished and independant, though it will likely continue being built upon and expanded for decades to come.
+
+
+Tentative Timetable of Estimated Phase Durations
+Phase 1
+	January 1, 2030-January 1, 2031; 1 year
+	Payloads drops over build site
+	Phase 2
+	March 1, 2032-July 1, 2034; two years, four months
+	Prepare build site for construction
+	Phase 3
+	March 1, 2045- November 1, 2045; six months
+	Establish self-sufficiency
+	Phase 4
+	January 1, 2035-January 1, 2045; one decade
+	Large-scale construction
+	Phase 5
+	January 1, 2046 onward
+	Finishing touches, advanced technologies
+	
+
+Overall
+	January 1, 2030-January 1, 2046; 16 years
+	Self-sufficient life-supporting lunar base for scientific research and commercial partnership
+	
+
+Conclusion
+        A base in the Moon will serve as a proving ground for space exploration and colonization technologies, because the moon is the closest extraterrestial body to earth- only three days away. Lest anything go wrong on Mars, it will take at least 150 days to get there. The LUS-COM project is a mission to install a central operations module on the Moon, intended to be a foundation for a potential Moon colony or civilization. Modular in nature, the LUS-COM is meant to be expanded upon, to serve commercial or scientific interests and increase functionality as demanded. Examples of commercial projects include housing tourists and providing infrastructure for asteroid mining. The LUS-COM will focus on facilities for scientific research as well. Bringing powerful telescopes and light-sensing technology down to the Lunar surface will enable scientists to study the universe at a much more accurate and high-resolution scale. The abundance of Helium-3 in Lunar dust will provide insight into its potential contribution to fusion technology. Rocketry support will enable rockets to make launches and landings on the Moon’s surface, as well as refueling them as they pass by to other locations within the solar system, drastically increasing the range of space endeavors. Self sufficiency is key to the LUS-COM project, as it is meant to aid exploration as opposed to draining resources. Self sufficiency is achieved through several different means. Water ice in the Moon’s poles and craters provide drinking and plant water, oxygen and rocket fuel. A large hydroponic greenhouse will provide fresh food to the base’s inhabitants, and several acres of solar panels will generate enough power to run the base during both Lunar days and nights. Conclusively, the LUS-COM will not only directly satisfy a plethora of necessities for long-term space research and development, it will mark humanity’s very first extraterrestrial civilization, and set up the space infrastructure needed for decades to come.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+Duke, M. B., Wendell, W. M., & Roberts, B. B. (n.d.). Towards a Lunar Base Programme. 
+Retrieved February 3, 2020, from https://www.sciencedirect.com/science/article/abs/pii/026596468590044X
+Dunnill, C. (2018, July 15). Split Water into Hydrogen and Oxygen in Space. Retrieved February 
+3, 2020, from https://www.sciencealert.com/scientists-just-showed-its-possible-to-split-water-into-hydrogen-and-oxygen-in-space
+Fa, W., & Jin, Y.-Q. (2007, September). Quantitative Estimation of Helium-3 Spatial Distribution 
+in the Lunar Regolith Layer. Retrieved February 3, 2020, from https://www.sciencedirect.com/science/article/abs/pii/S0019103507001285
+Geggel, L. (2017, October 20). A City Sized Lunar Lava Tube. Retrieved February 3, 2020, from 
+Lunar Exploration Objectives. (2006, December). Retrieved February 3, 2020, from https://www.livescience.com/60733-moon-lava-tube-could-shelter-astronauts.html
+Lunar Exploration Objectives. (2006, December). Retrieved February 3, 2020, from 
+https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf
+Phillips, T., & Dooling, D. (2006, April 28). The Sky is Falling. Retrieved February 3, 2020, 
+from https://science.nasa.gov/science-news/science-at-nasa/2006/28apr_skyisfalling
+Tarpley, B. (2018, April 23). The Disadvantages of Satellites. Retrieved February 3, 2020, from 
+https://sciencing.com/bad-things-space-exploration-8523069.html
+Wall, M. (2019, March 2). Elon Musk Wants Space Tourists to Fly on SpaceX's New Ride for 
+NASA. Retrieved February 3, 2020, from https://www.space.com/spacex-crew-dragon-space-tourists.html
+Webber, D. (2019, September 6). Current Space Tourism Developments. Retrieved February 3, 
+2020, from https://www.emerald.com/insight/content/doi/10.1108/S1571-504320190000025009/full/html
+Willings, T. L., Walden, B., & Lynn York, C. (n.d.). Lunar Lava Tube Base Construction. 
+Retrieved February 3, 2020, from https://ascelibrary.org/doi/abs/10.1061/40479(204)76
+
+
+
+
+[a]It might be  cheaper to use a base on the moon rather than a base on earth for this kind of work.
