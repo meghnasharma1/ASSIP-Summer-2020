@@ -1,0 +1,12 @@
+"### (true values are even, only correlation)",,##,,#,,#,,#,#
+ratio of X,ratio of Y,ratio of Z,coefficient of Q,coefficient of R,coeffieicent of S,percent of P,percent of Q,percent of R,ver.
+44,12,0.5,0.52,9,52,54,12,0.9,TRUE
+11,33,0.9,0.15,4.1,72,24,54,0.3,FALSE
+94,75,0.43,0.74,8,13,42,21,0.7,TRUE
+12,18,0.48,0.24,6.5,53,69,7,0.8,TRUE
+87,33,0.33,0.29,3.1,11,26,24,0.2,FALSE
+60,19,0.21,0.17,5.5,63,87,60,0.8,TRUE
+23,42,0.34,0.37,1.9,74,34,42,0.3,FALSE
+65,64,0.78,0.74,2.1,13,27,24,0.1,FALSE
+49,9,0.89,0.17,5.1,63,21,68,0.33,FALSE
+32,96,0.64,0.16,4.5,13,99,42,0.68,TRUE
